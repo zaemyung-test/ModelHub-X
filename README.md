@@ -1,2 +1,4 @@
-# ModelHub-X
-Repository for ModelHub-X project: collaboration between Alex and Sam to build LLM/LMM inference framework
+# ModelHub Roadmap
+## Create a simple framework to run any LLMs.
+## Introduce new Method to accelerate the inference of LLMs.
+## Support the inference of LMMs.
